@@ -1,0 +1,5 @@
+Scenario,DSO Impact,Monthly Freight Cost ($M),Monthly Cash Flow ($M),Cash Trapped in AR ($M),Effective Buffer ($M),Liquidity Runway (Months),Risk Flag
+0% Freight Shock,None,30.0,5.0,0.0,30.0,99.0,SAFE 🟢
+10% Freight Shock,None,33.0,2.0,0.0,30.0,99.0,SAFE 🟢
+30% Freight Shock,None,39.0,-4.0,0.0,30.0,7.5,CAUTION 🟡
+30% Freight Shock,+15 days,39.0,-4.0,25.0,5.0,1.2,CRITICAL 🔴
