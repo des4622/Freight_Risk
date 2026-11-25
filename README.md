@@ -27,4 +27,4 @@ Supply chain volatility directly impacts corporate liquidity. This project build
    - `01_Data_Acquisition.ipynb` (Generates `freight_data.csv`)
    - `02_Stress_Test_Engine.ipynb` (Generates `stress_test_results.csv`)
    - `03_Dashboard.ipynb` (Generates interactive Plotly charts)
-4. See `Executive_Summary.pdf` for a visual overview of the risk insights.
+4. See `Freight_Risk_Project.pptx` for a visual overview of the risk insights.
